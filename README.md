@@ -57,5 +57,8 @@ Title | Badge | Earnable? | Earned by
 ------------ | ------------- | ------------ | -------------
 Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](https://github.com/ajinkyagholape1998/github-profile-achievements/blob/main/images/badge-arctic-code-vault-small.png?raw=true) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
 
+<img alt="GitHub Hacktoberfest combined status" src="https://img.shields.io/github/hacktoberfest/2020/ajinkyagholape1998/Graph-Maker">
+
+
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/ajinkyagholape1998) 
 [<img alt="Github" src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ajinkya16/)
