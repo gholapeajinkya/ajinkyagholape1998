@@ -29,5 +29,11 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MaterialUI-5468ff?style=for-the-badge&logo=materialui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material UI-5468ff?style=for-the-badge&logo=materialui&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-4285f4?style=for-the-badge&logo=androidstudio&logoColor=3ddc84" />
 </p>
