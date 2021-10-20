@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ajinkyagholape1998&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajinkyagholape1998&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyagholape1998&layout=compact&theme=cobalt&hide_border=true" />
+
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -35,5 +42,14 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-4285f4?style=for-the-badge&logo=androidstudio&logoColor=3ddc84" />
+  <img src="https://img.shields.io/badge/Android%20Studio-4285f4?style=for-the-badge&logo=androidstudio&logoColor=white" />
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/ajinkyagholape1998) 
+[<img alt="Github" src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ajinkya16/)
