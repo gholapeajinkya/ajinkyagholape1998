@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<img align="center" src="https://github-readme-streak-stats.2f1937herokuapp.com?user=ajinkyagholape1998&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+<!-- <img align="center" src="https://github-readme-streak-stats.2f1937herokuapp.com?user=ajinkyagholape1998&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /> -->
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajinkyagholape1998&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyagholape1998&layout=compact&theme=cobalt&hide_border=true" />
@@ -76,4 +76,4 @@ Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badg
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/ajinkyagholape1998) 
 [<img alt="Github" src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ajinkya16/)
-[<img alt="gmail" src="https://img.shields.io/badge/-Gmail-c5392a?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ajinkyagholape1998@gmail.com" />](ajinkyagholape1998@gmail.com)
+<img alt="gmail" src="https://img.shields.io/badge/-Gmail-c5392a?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ajinkyagholape1998@gmail.com"/>
