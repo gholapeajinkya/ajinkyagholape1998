@@ -15,12 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ajinkyagholape1998&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajinkyagholape1998&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyagholape1998&layout=compact&theme=cobalt&hide_border=true" />
-
+## 🛠 Technologies & tools
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -59,6 +55,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
 </p>
 
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ajinkyagholape1998&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajinkyagholape1998&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyagholape1998&layout=compact&theme=cobalt&hide_border=true" />
+
 ## Achievements
 
 Title | Badge | Earnable? | Earned by
@@ -67,6 +70,8 @@ Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badg
 
 <img alt="GitHub Hacktoberfest combined status" src="https://img.shields.io/github/hacktoberfest/2020/ajinkyagholape1998/Graph-Maker">
 <img alt="GitHub Hacktoberfest combined status" src="https://img.shields.io/github/hacktoberfest/2021/ajinkyagholape1998/spotify-clone">
+
+## Contact me
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/ajinkyagholape1998) 
 [<img alt="Github" src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ajinkya16/)
