@@ -57,12 +57,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Pusher-300d4f?style=for-the-badge&logo=pusher&logoColor=white"/>
 </p>
 
-
-<!-- <img align="center" src="https://github-readme-streak-stats.2f1937herokuapp.com?user=ajinkyagholape1998&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /> -->
 <p>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ajinkyagholape1998&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+
+
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajinkyagholape1998&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+  </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyagholape1998&layout=compact&theme=cobalt&hide_border=true" />
-</p>
+
 ### Achievements
 
 Title | Badge | Earnable? | Earned by
