@@ -61,10 +61,11 @@ Here are some ideas to get you started:
 
 <!-- 
 GIS Tech
-<p>
-  <img src="https://img.shields.io/badge/GIS-00000F?style=for-the-badge&logo=gis&logoColor=white" />
-</p> -->
 
+<p>
+  <img src="https://img.shields.io/badge/GIS-00000F?style=for-the-badge&logo=epanetjs&logoColor=white" />
+</p>
+ -->
 
 <p>
 
