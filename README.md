@@ -59,6 +59,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Pusher-300d4f?style=for-the-badge&logo=pusher&logoColor=white"/>
 </p>
 
+<!-- 
+GIS Tech
+<p>
+  <img src="https://img.shields.io/badge/GIS-00000F?style=for-the-badge&logo=gis&logoColor=white" />
+</p> -->
+
+
 <p>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ajinkyagholape1998&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
